@@ -164,7 +164,7 @@ label{
   margin-right: 50px;
 }
 .bottom-Side-logo-signup{
-  margin-left: 40%;
+  margin-left: 35%;
 }
 
 .bottom-Side-logo-login{
@@ -227,6 +227,12 @@ label{
     align-items: center;
     justify-content: center;
   }
+  .bottom-Side-logo-login{
+    margin-left: 10%;
+    transition: all 0.2s;
+    transition: all 0.2s;
+  
+  }
   .bottom-Side-logo-login > div{
     padding: 5px;
     width: 80vw;
@@ -248,6 +254,9 @@ label{
     border: 2px solid #ecafa5;
     transition:all 0.3s;
     margin-left: 30%;
+  }
+  .bottom-Side-logo-signup{
+    margin-left: 41%;
   }
   }
   
@@ -280,6 +289,12 @@ label{
     align-items: center;
     justify-content: center;
   }
+  .bottom-Side-logo-login{
+    margin-left: 26%;
+    transition: all 0.2s;
+    transition: all 0.2s;
+  
+  }
   .bottom-Side-logo-login > div{
     padding: 5px;
     width: 60vw;
@@ -301,5 +316,8 @@ label{
     border: 2px solid #ecafa5;
     transition:all 0.3s;
     margin-left: 30%;
+  }
+  .bottom-Side-logo-signup{
+    margin-left: 38%;
   }
   }
